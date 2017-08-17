@@ -3,10 +3,10 @@
   translation: "À propos"
 
 - id: title_apps
-  translation: "Download" # TODO: i18n: translate this
+  translation: "Téléchargement"
 
 - id: title_faq
-  translation: "FAQ" # TODO: i18n: is this translation okay?
+  translation: "FAQ" # TODO: i18n: is this translation okay? RESPONSE : YES TRANSLATION OKAY !
 
 - id: title_getsiacoin
   translation: "Obtenez des Siacoin"
@@ -34,7 +34,7 @@
   translation: "Livre blanc"
 
 - id: discover_blog
-  translation: "Blog" # TODO: i18n: is this translation okay?
+  translation: "Blog" # TODO: i18n: is this translation okay? RESPONSE : YES TRANSLATION OKAY !
 
 - id: discover_explorer
   translation: "Blockchain Explorateur"
@@ -50,13 +50,13 @@
   translation: "En savoir plus sur Sia"
 
 - id: footer_docs
-  translation: "Docs" # TODO: i18n: is this translation okay?
+  translation: "Docs" # TODO: i18n: is this translation okay? RESPONSE : YES TRANSLATION OKAY but you can write "Documents"
 
 - id: footer_blog
-  translation: "Blog" # TODO: i18n: is this translation okay?
+  translation: "Blog" # TODO: i18n: is this translation okay? RESPONSE : YES TRANSLATION OKAY !
 
 - id: footer_forum
-  translation: "Forum" # TODO: i18n: is this translation okay?
+  translation: "Forum" # TODO: i18n: is this translation okay? RESPONSE : YES TRANSLATION OKAY !
 
 - id: footer_siatalk
   translation: "#siatalk sur irc.freenode.net"
@@ -68,7 +68,7 @@
   translation: "Questions sur Sia? Entrer en contact!"
 
 - id: footer_contact
-  translation: "Contact" # TODO: is this translation okay?
+  translation: "Contact" # TODO: is this translation okay? RESPONSE : YES TRANSLATION OKAY !
 
 - id: footer_like
   translation: "Aimez-nous"
@@ -195,7 +195,7 @@
 
 ### contact ###
 - id: about_contact
-  translation: "Contact" # TODO: i18n: is this translation okay?
+  translation: "Contact" # TODO: i18n: is this translation okay? RESPONSE : YES TRANSLATION OKAY !
 
 
 # URL: /about/milestones.html
@@ -223,10 +223,10 @@
   translation: "Juin 2016: Sia Version 1"
 
 - id: milestones_exchanges
-  translation: "Julliet 2016: Sia sur Poloniex, YUNBI, Bitsquare, et ShapeShift"
+  translation: "Juillet 2016: Sia sur Poloniex, YUNBI, Bitsquare, et ShapeShift" # TODO: i18n: update translation
 
 - id: milestones_funding2016
-  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this
+  translation: "Août 2016: Nebulous lève $750M pour le compte de Sia"
 
 
 # URL: /apps/index.html
@@ -238,19 +238,19 @@
   translation: "Sia-UI (LTS)"
 
 - id: apps_uisubheader
-  translation: "For users" # TODO: translate
+  translation: "Pour les utilisateurs"
 
 - id: apps_daemonheader
-  translation: "Sia Daemon"
+  translation: "Service (Demon) Sia"
 
 - id: apps_daemonheaderlts
-  translation: "Sia Daemon (LTS)"
+  translation: "Service (Demon) Sia (LTS)"
 
 - id: apps_daemonsubheader
-  translation: "For developers" # TODO: translate
+  translation: "Pour les developpeurs"
 
 - id: apps_minerheader
-  translation: "Miners" # TODO: translate
+  translation: "Mineurs"
 
 ### miner ###
 - id: apps_download
@@ -260,7 +260,7 @@
   translation: "Mineur"
 
 - id: apps_miner1
-  translation: "The official GPU miner" # TODO: translate
+  translation: "Le mineur officiel pour GPU"
 
 - id: apps_altminer
   translation: "Mineur Alterné"
@@ -269,29 +269,29 @@
   translation: "Un mineur de GPU pour Sia en Go"
 
 - id: apps_sourcecode
-  translation: "Source code on GitHub" # TODO: translate
+  translation: "Code source sur GitHub"
 
 ### built on sia ###
 - id: apps_builtheader
   translation: "Construit sur Sia"
 
 - id: apps_explorerh
-  translation: "Block explorateur"
+  translation: "Explorateur de Block" # TODO: i18n: update translation
 
 - id: apps_explorerp
-  translation: "Sia Blockchain Explorateur"
+  translation: "Explorateur de Blockchain Sia" # TODO: i18n: update translation
 
 - id: apps_minebox
-  translation: "Next generation NAS powered by Sia" # TODO: translate
+  translation: "NAS de nouvelle génération propulsé par Sia"
 
 - id: apps_siacluster
-  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+  translation: "Outil de gestion et de suivi des données pour Sia"
 
 - id: apps_gnomeshell
-  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+  translation: "Extension de stockage Sia Cloud pour le Shell GNOME"
 
 - id: apps_siapulse
-  translation: "Analytics tool for Sia" # TODO: translate
+  translation: "Outil d'analyse pour Sia"
 
 # URL: /faq.html
 ### header ###
@@ -553,7 +553,7 @@
 
 ### store ###
 - id: getstarted_storeiconh
-  translation: "Magasin" # TODO: i18n: is this translation correct? It seems to be the wrong translation of store (this translation seems to mean shop, not storage)
+  translation: "Stockage" # TODO: i18n: update translation. RESPONSE : NOW IT'S CORRECT ;)
 
 - id: getstarted_storeiconp
   translation: "Je veux utiliser Sia pour stocker mes données" # TODO: i18n: update translation
@@ -587,10 +587,10 @@
   translation: "Créez une offre de stockage" # TODO: update translation
 
 - id: getstarted_farmstep3
-  translation: "Obtenez Siacoin avec des contrats de fichiers" # TODO: update translation
+  translation: "Obtenez Siacoin avec des contrats de stockage de fichiers" # TODO: Update Translation.
 
 - id: getstarted_farmstep4
-  translation: "Follow the <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">hosting guide</a>" # TODO: translate this
+  translation: "Suivez le <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">guide du stockage de fichier</a>"
 
 ### mine ###
 - id: getstarted_mineiconh
@@ -634,4 +634,4 @@
   translation: "Utilisez Sia pour vos applications" # TODO: update translation
 
 - id: getstarted_developstep5
-  translation: "Use Sia as your storage backend" # TODO: update translation
+  translation: "Utilisez Sia pour vos stockages de fichier de sauvegarde"
